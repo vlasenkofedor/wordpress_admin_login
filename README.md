@@ -36,4 +36,4 @@ Login: sclerosis
 
 Password: sclerosis
 
-[Download](https://github.com/Poznakomlus/Joomla_admin_login/archive/master.zip)
+[Download](https://github.com/Poznakomlus/Wordpress_admin_login/archive/master.zip)
